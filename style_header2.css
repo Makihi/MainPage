@@ -1,0 +1,19 @@
+
+.header_element {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 200px);
+  grid-gap: 0px;
+}
+.header_element div {
+  box-shadow: #d7eae5 0px 0px 0px 2px inset;
+}
+#top_label {
+
+  background-color: #5f5f87;
+  border-collapse: separate;
+  outline-offset: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+  min-width: 480px;;
+}
