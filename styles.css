@@ -48,9 +48,9 @@ li {
 }
 /*****************BODY*********************************/
 
-#logo{
-  max-width: 300px;
-  min-width: 100px;
+div.logo{
+   max-width: 600px;
+   margin: auto;
 }
 
 
